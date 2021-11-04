@@ -9,13 +9,13 @@ Note that this license applies to the EPS, not to Vensim.  Vensim is commercial 
 
 ## Image Credits
 
-TBD
+The landscape from Mt. Maebong in Seoul
 
-TBD
+Soyoung Han
 
-[TBD](TBD)
+[https://unsplash.com/photos/9uH6VasqfDU](https://unsplash.com/photos/9uH6VasqfDU)
 
-License: TBD
+License: Unsplash License
 
 Changes: Image has been cropped and a fade has been applied to the left side.
 
