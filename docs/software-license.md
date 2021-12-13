@@ -9,13 +9,13 @@ Note that this license applies to the EPS, not to Vensim.  Vensim is commercial 
 
 ## Image Credits
 
-The landscape from Mt. Maebong in Seoul
+Old city gate in Seoul City, South Korea
 
-Soyoung Han
+NeoPhoto
 
-[https://unsplash.com/photos/9uH6VasqfDU](https://unsplash.com/photos/9uH6VasqfDU)
+[https://www.istockphoto.com/en/photo/old-city-gate-in-seoul-city-eith-sunset-and-light-from-traffic-and-car-gm951520126-259744027](https://www.istockphoto.com/en/photo/old-city-gate-in-seoul-city-eith-sunset-and-light-from-traffic-and-car-gm951520126-259744027)
 
-License: Unsplash License
+License: iStock License
 
 Changes: Image has been cropped and a fade has been applied to the left side.
 
