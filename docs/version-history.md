@@ -4,7 +4,7 @@ title:	"South Korea EPS Version History"
 ---
 This page tracks updates that have been made with each version of the South Korea Energy Policy Simulator.
 
-### **{version number} - {release date}**
+### **3.3.1 - TBD, 2022**
 
-* {comment}
+* Initial Release
 
